@@ -6,6 +6,7 @@ bin
 .classpath
 .project
 
+
 # idea
 out
 *.ipr
@@ -23,3 +24,4 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+/logs/
